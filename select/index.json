@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": ">one (greater than one)",
+  "base_artist": "VALORANT & ericdoa",
+  "createdAt": "2026-02-12T11:26:40.412327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/01_one_(greater_than_one)_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT & ericdoa",
+      "has_synced": true,
+      "path": "select/02_one_(greater_than_one)_VALORANT_&_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": ">one - greater than one",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/03_one_-_greater_than_one_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/04_one_(greater_than_one)_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "Ericdoa",
+      "has_synced": true,
+      "path": "select/05_one_(greater_than_one)_Ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": ">one - greater than one",
+      "artist": "VALORANT/ericdoa",
+      "has_synced": true,
+      "path": "select/06_one_-_greater_than_one_VALORANT_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT • ericdoa",
+      "has_synced": true,
+      "path": "select/07_one_(greater_than_one)_VALORANT_•_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT & ericdoa",
+      "has_synced": true,
+      "path": "select/08_one_(greater_than_one)_VALORANT_&_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": ">one - greater than one",
+      "artist": "VALORANT, ericdoa",
+      "has_synced": true,
+      "path": "select/09_one_-_greater_than_one_VALORANT,_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": ">one - greater than one",
+      "artist": "VALORANT feat. ericdoa",
+      "has_synced": true,
+      "path": "select/10_one_-_greater_than_one_VALORANT_feat._ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": ">One (Greater Than One)",
+      "artist": "VALORANT Music & ericdoa",
+      "has_synced": true,
+      "path": "select/11_One_(Greater_Than_One)_VALORANT_Music_&_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT feat. ericdoa",
+      "has_synced": true,
+      "path": "select/12_one_(greater_than_one)_VALORANT_feat._ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "&gt;one (greater than one)",
+      "artist": "VALORANT, Ericdoa",
+      "has_synced": true,
+      "path": "select/13_&gt;one_(greater_than_one)_VALORANT,_Ericdoa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": ">one (greater than one)",
+      "artist": "VALORANT & ericdoa",
+      "has_synced": false,
+      "path": "select/pl_01_one_(greater_than_one)_VALORANT_&_ericdoa.txt"
+    }
+  ]
+}
